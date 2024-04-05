@@ -4,7 +4,7 @@
 
 ## <p align="center">Перша частина</p>
 
-​У цьому домашньому завданні ми продовжуємо доопрацьовувати застосунок REST API із домашнього завдання 12 (https://github.com/Dmytro-Ostrenko/PY_Web_12_REST_API_auth/tree/hw12).
+​У цьому домашньому завданні ми продовжуємо доопрацьовувати застосунок REST API із домашнього завдання 12 (https://github.com/Dmytro-Ostrenko/PY_Web_12_REST_API_auth).
 
 Завдання:
 
@@ -30,7 +30,7 @@
 
 ​
 
-У цьому домашньому завданні необхідно доопрацювати застосунок Django із домашнього завдання 10 (https://github.com/Dmytro-Ostrenko/PY_Web_10_Django/tree/hw).
+У цьому домашньому завданні необхідно доопрацювати застосунок Django із домашнього завдання 10 (https://github.com/Dmytro-Ostrenko/PY_Web_10_Django).
 
 Завдання:
 
