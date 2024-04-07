@@ -1,6 +1,6 @@
 #  <p align="center">:robot:  PY_Web_13:robot:  </p>
 
-## <p align="center">Домашнє завдання #13</p>
+## <p align="center">Домашнє завдання  #13</p>
 
 ## <p align="center">Перша частина</p>
 
