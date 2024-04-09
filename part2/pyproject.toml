@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "hw10-django"
+version = "0.1.0"
+description = ""
+authors = ["Dmytro-Ostrenko <142011911+Dmytro-Ostrenko@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "^5.0.3"
+pymongo = "^4.6.2"
+mongoengine = "^0.28.2"
+django-environ = "^0.11.2"
+scrapy = "^2.11.1"
+bs4 = "^0.0.2"
+psycopg2 = "^2.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
